@@ -1,2 +1,2 @@
-# Practice-guide
+# 実習ガイド(Practice-guide)
 Design Sprint Practice guide
